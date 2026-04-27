@@ -1,0 +1,15 @@
+resources:
+  pipelines:
+    pipeline_cust_analytics:
+      name: cust_analytics
+      libraries:
+        - glob:
+            include: ../../src/cust_data_deploy/pipelines/cust_analytics_prep/transformations/**
+      schema: dlt_schema
+      continuous: false
+      development: false
+      photon: true
+      channel: CURRENT
+      catalog: ${var.catalog_name}
+      serverless: true
+      root_path: ../../src/cust_data_deploy/pipelines/cust_analytics_prep
