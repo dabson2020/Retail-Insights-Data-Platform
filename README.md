@@ -108,8 +108,10 @@ The business-ready datasets are:
 - Built-in data quality checks (Expectations)
 - Automatic dependency resolution
 - Incremental processing
+  
 
 ![alt text](project_dag.png)
+**The ETL Pipeline DAG**
 
 
 📦 **Deployment with Databricks Asset Bundles**
