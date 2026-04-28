@@ -32,10 +32,15 @@ Retail organizations need a scalable platform to analyze:
 This platform enables accurate, historical, and real-time-ready analytics.
 
 📊 Key Use Cases
+
 📈 Customer Order Analysis
+
 🧑‍💼 Employee Performance Tracking
+
 🛒 Product Revenue Insights
+
 🏬 Store Performance Monitoring
+
 💰 Customer Lifetime Value Analysis
 
 The datasets are:
