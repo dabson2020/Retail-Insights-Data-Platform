@@ -8,10 +8,15 @@ The Retail Insight Data Platform is designed to ingest, transform, and serve ret
 🚀 Project Highlights
 
 🔄 End-to-end ETL pipeline (Bronze → Silver → Gold)
+
 📊 SCD Type 1 (Processing) + SCD Type 2 (Consumption)
+
 ⚡ Fully automated pipelines using Delta Live Tables
+
 📦 CI/CD-ready deployment using Asset Bundles
+
 🧪 Built-in data quality enforcement (DLT Expectations)
+
 🏗️ Modern Medallion Architecture implementation
 
 
