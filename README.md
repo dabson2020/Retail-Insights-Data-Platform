@@ -6,6 +6,7 @@ An end-to-end modern data platform built on Databricks using Delta Live Tables (
 The Retail Insight Data Platform is designed to ingest, transform, and serve retail data for analytics and reporting. It implements a multi-layer medallion architecture with automated data pipelines and supports both SCD Type 1 and SCD Type 2 transformations.
 
 🚀 Project Highlights
+
 🔄 End-to-end ETL pipeline (Bronze → Silver → Gold)
 📊 SCD Type 1 (Processing) + SCD Type 2 (Consumption)
 ⚡ Fully automated pipelines using Delta Live Tables
