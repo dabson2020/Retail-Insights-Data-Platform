@@ -85,24 +85,25 @@ The business-ready datasets are:
 
 ⚙️ **Tech Stack**
 
-Layer:                                  Technology
+- Layer:                                  Technology
 
-Platform:                               Databricks
+- Platform:                               Databricks
 
-Pipeline Framework:                     Delta Live Tables
+- Pipeline Framework:                     Delta Live Tables
 
-Deployment:                             Databricks Asset Bundles, GitHub
+- Deployment:                             Databricks Asset Bundles, GitHub
 
-Storage:                                Delta Lake
+- Storage:                                Delta Lake
 
-Language:                               Python / SQL
+- Language:                               Python / SQL
 
-Orchestration:                          Native DLT pipeline scheduling
+- Orchestration:                          Native DLT pipeline scheduling
 
 
-The pipeline is implemented using Delta Live Tables to provide:
 
-Features:
+**The pipeline is implemented using Delta Live Tables to provide:**
+
+**Features:**
 - Declarative pipeline development
 - Built-in data quality checks (Expectations)
 - Automatic dependency resolution
