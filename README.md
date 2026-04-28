@@ -84,19 +84,20 @@ The business-ready datasets are:
 - Customer Revenue: Revenue generated from each customer and total orders
 
 ⚙️ **Tech Stack**
-Layer                                  Technology
 
-Platform                                Databricks
+Layer:                                  Technology
 
-Pipeline Framework                      Delta Live Tables
+Platform:                               Databricks
 
-Deployment                              Databricks Asset Bundles, GitHub
+Pipeline Framework:                     Delta Live Tables
 
-Storage                                 Delta Lake
+Deployment:                             Databricks Asset Bundles, GitHub
 
-Language                                Python / SQL
+Storage:                                Delta Lake
 
-Orchestration                           Native DLT pipeline scheduling
+Language:                               Python / SQL
+
+Orchestration:                          Native DLT pipeline scheduling
 
 
 The pipeline is implemented using Delta Live Tables to provide:
