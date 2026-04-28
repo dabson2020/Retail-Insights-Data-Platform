@@ -111,7 +111,8 @@ The business-ready datasets are:
   
 
 ![alt text](project_dag.png)
-**The ETL Pipeline DAG**
+**Figure 1: The ETL Pipeline DAG**
+
 
 
 📦 **Deployment with Databricks Asset Bundles**
